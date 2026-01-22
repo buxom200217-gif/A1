@@ -1,0 +1,7 @@
+{
+  "name": "TECHNICAL AUTO SERVICE",
+  "description": "A comprehensive car repair and service management application with smart diagnostics using Gemini and simulated Google Sheets storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
